@@ -323,7 +323,7 @@ Full-Width Styles
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
-.code_link {
+.jar_link {
   display: block;
   float: right;
   width: 90px;
@@ -333,7 +333,7 @@ Full-Width Styles
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
-.jar_link {
+.code_link {
   display: block;
   float: right;
   width: 90px;
@@ -344,11 +344,11 @@ Full-Width Styles
   margin-left: 10px;
 }
 
-.code_link:hover {
+.jar_link:hover {
   background: url(../images/sprite_download.png) no-repeat top left;
 }
 
-.jar_link:hover {
+.code_link:hover {
   background: url(../images/sprite_download.png) no-repeat top right;
 }
 
